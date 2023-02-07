@@ -1,0 +1,1225 @@
+R tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.435 2022/06/12T00:14:23z: DS3231
+ 0h00:04.450 2022/06/12T00:14:23z: BME280 (0x76)
+ 0h00:04.465 2022/06/12T00:14:23z: 84:f3:eb:7d:7:a8
+ 0h00:04.466 2022/06/12T00:14:23z: SSID: MU Open
+ 0h00:04.471 2022/06/12T00:14:23z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.404 2022/06/12T00:34:25z: DS3231
+ 0h00:04.420 2022/06/12T00:34:25z: BME280 (0x76)
+ 0h00:04.434 2022/06/12T00:34:25z: 84:f3:eb:7d:7:a8
+ 0h00:04.436 2022/06/12T00:34:25z: SSID: MU Open
+ 0h00:04.441 2022/06/12T00:34:25z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.428 2022/06/12T00:54:26z: DS3231
+ 0h00:04.444 2022/06/12T00:54:26z: BME280 (0x76)
+ 0h00:04.458 2022/06/12T00:54:26z: 84:f3:eb:7d:7:a8
+ 0h00:04.459 2022/06/12T00:54:26z: SSID: MU Open
+ 0h00:04.465 2022/06/12T00:54:26z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.305 2022/06/12T01:14:28z: DS3231
+ 0h00:04.320 2022/06/12T01:14:28z: BME280 (0x76)
+ 0h00:04.334 2022/06/12T01:14:28z: 84:f3:eb:7d:7:a8
+ 0h00:04.336 2022/06/12T01:14:28z: SSID: MU Open
+ 0h00:04.341 2022/06/12T01:14:28z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.483 2022/06/12T01:34:30z: DS3231
+ 0h00:04.498 2022/06/12T01:34:30z: BME280 (0x76)
+ 0h00:04.512 2022/06/12T01:34:30z: 84:f3:eb:7d:7:a8
+ 0h00:04.514 2022/06/12T01:34:30z: SSID: MU Open
+ 0h00:04.519 2022/06/12T01:34:30z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.281 2022/06/12T01:54:32z: DS3231
+ 0h00:04.296 2022/06/12T01:54:32z: BME280 (0x76)
+ 0h00:04.310 2022/06/12T01:54:32z: 84:f3:eb:7d:7:a8
+ 0h00:04.312 2022/06/12T01:54:32z: SSID: MU Open
+ 0h00:04.317 2022/06/12T01:54:32z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.480 2022/06/12T02:14:33z: DS3231
+ 0h00:04.495 2022/06/12T02:14:33z: BME280 (0x76)
+ 0h00:04.509 2022/06/12T02:14:33z: 84:f3:eb:7d:7:a8
+ 0h00:04.511 2022/06/12T02:14:33z: SSID: MU Open
+ 0h00:04.516 2022/06/12T02:14:33z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.354 2022/06/12T02:34:35z: DS3231
+ 0h00:04.369 2022/06/12T02:34:35z: BME280 (0x76)
+ 0h00:04.383 2022/06/12T02:34:35z: 84:f3:eb:7d:7:a8
+ 0h00:04.385 2022/06/12T02:34:35z: SSID: MU Open
+ 0h00:04.390 2022/06/12T02:34:35z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.460 2022/06/12T02:54:38z: DS3231
+ 0h00:04.475 2022/06/12T02:54:38z: BME280 (0x76)
+ 0h00:04.489 2022/06/12T02:54:38z: 84:f3:eb:7d:7:a8
+ 0h00:04.491 2022/06/12T02:54:38z: SSID: MU Open
+ 0h00:04.496 2022/06/12T02:54:38z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.460 2022/06/12T03:14:40z: DS3231
+ 0h00:04.476 2022/06/12T03:14:40z: BME280 (0x76)
+ 0h00:04.490 2022/06/12T03:14:40z: 84:f3:eb:7d:7:a8
+ 0h00:04.491 2022/06/12T03:14:40z: SSID: MU Open
+ 0h00:04.497 2022/06/12T03:14:40z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.475 2022/06/12T03:34:41z: DS3231
+ 0h00:04.490 2022/06/12T03:34:41z: BME280 (0x76)
+ 0h00:04.504 2022/06/12T03:34:41z: 84:f3:eb:7d:7:a8
+ 0h00:04.506 2022/06/12T03:34:41z: SSID: MU Open
+ 0h00:04.511 2022/06/12T03:34:41z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.481 2022/06/12T03:54:44z: DS3231
+ 0h00:04.496 2022/06/12T03:54:44z: BME280 (0x76)
+ 0h00:04.510 2022/06/12T03:54:44z: 84:f3:eb:7d:7:a8
+ 0h00:04.512 2022/06/12T03:54:44z: SSID: MU Open
+ 0h00:04.517 2022/06/12T03:54:44z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.508 2022/06/12T04:14:46z: DS3231
+ 0h00:04.524 2022/06/12T04:14:46z: BME280 (0x76)
+ 0h00:04.538 2022/06/12T04:14:46z: 84:f3:eb:7d:7:a8
+ 0h00:04.539 2022/06/12T04:14:46z: SSID: MU Open
+ 0h00:04.545 2022/06/12T04:14:46z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.558 2022/06/12T04:34:48z: DS3231
+ 0h00:04.573 2022/06/12T04:34:48z: BME280 (0x76)
+ 0h00:04.587 2022/06/12T04:34:48z: 84:f3:eb:7d:7:a8
+ 0h00:04.589 2022/06/12T04:34:48z: SSID: MU Open
+ 0h00:04.594 2022/06/12T04:34:48z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.411 2022/06/12T04:54:50z: DS3231
+ 0h00:04.426 2022/06/12T04:54:50z: BME280 (0x76)
+ 0h00:04.440 2022/06/12T04:54:50z: 84:f3:eb:7d:7:a8
+ 0h00:04.442 2022/06/12T04:54:50z: SSID: MU Open
+ 0h00:04.447 2022/06/12T04:54:50z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.571 2022/06/12T05:14:52z: DS3231
+ 0h00:04.586 2022/06/12T05:14:52z: BME280 (0x76)
+ 0h00:04.600 2022/06/12T05:14:52z: 84:f3:eb:7d:7:a8
+ 0h00:04.602 2022/06/12T05:14:52z: SSID: MU Open
+ 0h00:04.607 2022/06/12T05:14:52z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.467 2022/06/12T05:34:54z: DS3231
+ 0h00:04.482 2022/06/12T05:34:54z: BME280 (0x76)
+ 0h00:04.496 2022/06/12T05:34:54z: 84:f3:eb:7d:7:a8
+ 0h00:04.498 2022/06/12T05:34:54z: SSID: MU Open
+ 0h00:04.503 2022/06/12T05:34:54z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.339 2022/06/12T05:54:56z: DS3231
+ 0h00:04.355 2022/06/12T05:54:56z: BME280 (0x76)
+ 0h00:04.369 2022/06/12T05:54:56z: 84:f3:eb:7d:7:a8
+ 0h00:04.370 2022/06/12T05:54:56z: SSID: MU Open
+ 0h00:04.376 2022/06/12T05:54:56z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.343 2022/06/12T06:14:58z: DS3231
+ 0h00:04.358 2022/06/12T06:14:58z: BME280 (0x76)
+ 0h00:04.373 2022/06/12T06:14:58z: 84:f3:eb:7d:7:a8
+ 0h00:04.374 2022/06/12T06:14:58z: SSID: MU Open
+ 0h00:04.379 2022/06/12T06:14:58z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.531 2022/06/12T06:35:01z: DS3231
+ 0h00:04.546 2022/06/12T06:35:01z: BME280 (0x76)
+ 0h00:04.561 2022/06/12T06:35:01z: 84:f3:eb:7d:7:a8
+ 0h00:04.562 2022/06/12T06:35:01z: SSID: MU Open
+ 0h00:04.567 2022/06/12T06:35:01z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.592 2022/06/12T06:55:03z: DS3231
+ 0h00:04.608 2022/06/12T06:55:03z: BME280 (0x76)
+ 0h00:04.622 2022/06/12T06:55:03z: 84:f3:eb:7d:7:a8
+ 0h00:04.623 2022/06/12T06:55:03z: SSID: MU Open
+ 0h00:04.629 2022/06/12T06:55:03z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.526 2022/06/12T07:15:05z: DS3231
+ 0h00:04.541 2022/06/12T07:15:05z: BME280 (0x76)
+ 0h00:04.555 2022/06/12T07:15:05z: 84:f3:eb:7d:7:a8
+ 0h00:04.557 2022/06/12T07:15:05z: SSID: MU Open
+ 0h00:04.562 2022/06/12T07:15:05z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.592 2022/06/12T07:35:06z: DS3231
+ 0h00:04.607 2022/06/12T07:35:06z: BME280 (0x76)
+ 0h00:04.621 2022/06/12T07:35:06z: 84:f3:eb:7d:7:a8
+ 0h00:04.623 2022/06/12T07:35:06z: SSID: MU Open
+ 0h00:04.628 2022/06/12T07:35:06z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.644 2022/06/12T07:55:08z: DS3231
+ 0h00:04.659 2022/06/12T07:55:08z: BME280 (0x76)
+ 0h00:04.673 2022/06/12T07:55:08z: 84:f3:eb:7d:7:a8
+ 0h00:04.675 2022/06/12T07:55:08z: SSID: MU Open
+ 0h00:04.680 2022/06/12T07:55:08z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.447 2022/06/12T08:15:11z: DS3231
+ 0h00:04.462 2022/06/12T08:15:11z: BME280 (0x76)
+ 0h00:04.476 2022/06/12T08:15:11z: 84:f3:eb:7d:7:a8
+ 0h00:04.478 2022/06/12T08:15:11z: SSID: MU Open
+ 0h00:04.483 2022/06/12T08:15:11z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.571 2022/06/12T08:35:13z: DS3231
+ 0h00:04.586 2022/06/12T08:35:13z: BME280 (0x76)
+ 0h00:04.600 2022/06/12T08:35:13z: 84:f3:eb:7d:7:a8
+ 0h00:04.602 2022/06/12T08:35:13z: SSID: MU Open
+ 0h00:04.607 2022/06/12T08:35:13z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.650 2022/06/12T08:55:16z: DS3231
+ 0h00:04.665 2022/06/12T08:55:16z: BME280 (0x76)
+ 0h00:04.679 2022/06/12T08:55:16z: 84:f3:eb:7d:7:a8
+ 0h00:04.681 2022/06/12T08:55:16z: SSID: MU Open
+ 0h00:04.686 2022/06/12T08:55:16z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.421 2022/06/12T09:15:18z: DS3231
+ 0h00:04.436 2022/06/12T09:15:18z: BME280 (0x76)
+ 0h00:04.450 2022/06/12T09:15:18z: 84:f3:eb:7d:7:a8
+ 0h00:04.452 2022/06/12T09:15:18z: SSID: MU Open
+ 0h00:04.457 2022/06/12T09:15:18z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.769 2022/06/12T09:35:21z: DS3231
+ 0h00:04.784 2022/06/12T09:35:21z: BME280 (0x76)
+ 0h00:04.798 2022/06/12T09:35:21z: 84:f3:eb:7d:7:a8
+ 0h00:04.800 2022/06/12T09:35:21z: SSID: MU Open
+ 0h00:04.805 2022/06/12T09:35:21z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.464 2022/06/12T09:55:23z: DS3231
+ 0h00:04.479 2022/06/12T09:55:23z: BME280 (0x76)
+ 0h00:04.493 2022/06/12T09:55:23z: 84:f3:eb:7d:7:a8
+ 0h00:04.495 2022/06/12T09:55:23z: SSID: MU Open
+ 0h00:04.500 2022/06/12T09:55:23z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.571 2022/06/12T10:15:25z: DS3231
+ 0h00:04.586 2022/06/12T10:15:25z: BME280 (0x76)
+ 0h00:04.600 2022/06/12T10:15:25z: 84:f3:eb:7d:7:a8
+ 0h00:04.602 2022/06/12T10:15:25z: SSID: MU Open
+ 0h00:04.607 2022/06/12T10:15:25z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.676 2022/06/12T10:35:27z: DS3231
+ 0h00:04.691 2022/06/12T10:35:27z: BME280 (0x76)
+ 0h00:04.705 2022/06/12T10:35:27z: 84:f3:eb:7d:7:a8
+ 0h00:04.707 2022/06/12T10:35:27z: SSID: MU Open
+ 0h00:04.712 2022/06/12T10:35:27z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.608 2022/06/12T10:55:30z: DS3231
+ 0h00:04.623 2022/06/12T10:55:30z: BME280 (0x76)
+ 0h00:04.637 2022/06/12T10:55:30z: 84:f3:eb:7d:7:a8
+ 0h00:04.639 2022/06/12T10:55:30z: SSID: MU Open
+ 0h00:04.644 2022/06/12T10:55:30z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.565 2022/06/12T11:15:32z: DS3231
+ 0h00:04.580 2022/06/12T11:15:32z: BME280 (0x76)
+ 0h00:04.594 2022/06/12T11:15:32z: 84:f3:eb:7d:7:a8
+ 0h00:04.596 2022/06/12T11:15:32z: SSID: MU Open
+ 0h00:04.601 2022/06/12T11:15:32z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.679 2022/06/12T11:35:35z: DS3231
+ 0h00:04.694 2022/06/12T11:35:35z: BME280 (0x76)
+ 0h00:04.709 2022/06/12T11:35:35z: 84:f3:eb:7d:7:a8
+ 0h00:04.710 2022/06/12T11:35:35z: SSID: MU Open
+ 0h00:04.715 2022/06/12T11:35:35z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.455 2022/06/12T11:55:37z: DS3231
+ 0h00:04.471 2022/06/12T11:55:37z: BME280 (0x76)
+ 0h00:04.485 2022/06/12T11:55:37z: 84:f3:eb:7d:7:a8
+ 0h00:04.486 2022/06/12T11:55:37z: SSID: MU Open
+ 0h00:04.492 2022/06/12T11:55:37z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.669 2022/06/12T12:15:39z: DS3231
+ 0h00:04.684 2022/06/12T12:15:39z: BME280 (0x76)
+ 0h00:04.699 2022/06/12T12:15:40z: 84:f3:eb:7d:7:a8
+ 0h00:04.700 2022/06/12T12:15:40z: SSID: MU Open
+ 0h00:04.706 2022/06/12T12:15:40z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.801 2022/06/12T12:35:42z: DS3231
+ 0h00:04.816 2022/06/12T12:35:42z: BME280 (0x76)
+ 0h00:04.830 2022/06/12T12:35:42z: 84:f3:eb:7d:7:a8
+ 0h00:04.832 2022/06/12T12:35:42z: SSID: MU Open
+ 0h00:04.837 2022/06/12T12:35:42z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.503 2022/06/12T12:55:44z: DS3231
+ 0h00:04.518 2022/06/12T12:55:44z: BME280 (0x76)
+ 0h00:04.532 2022/06/12T12:55:44z: 84:f3:eb:7d:7:a8
+ 0h00:04.534 2022/06/12T12:55:44z: SSID: MU Open
+ 0h00:04.539 2022/06/12T12:55:44z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.280 2022/06/12T13:15:47z: DS3231
+ 0h00:04.295 2022/06/12T13:15:47z: BME280 (0x76)
+ 0h00:04.309 2022/06/12T13:15:47z: 84:f3:eb:7d:7:a8
+ 0h00:04.311 2022/06/12T13:15:47z: SSID: MU Open
+ 0h00:04.316 2022/06/12T13:15:47z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.714 2022/06/12T13:35:49z: DS3231
+ 0h00:04.729 2022/06/12T13:35:49z: BME280 (0x76)
+ 0h00:04.744 2022/06/12T13:35:49z: 84:f3:eb:7d:7:a8
+ 0h00:04.745 2022/06/12T13:35:49z: SSID: MU Open
+ 0h00:04.750 2022/06/12T13:35:49z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.665 2022/06/12T13:55:51z: DS3231
+ 0h00:04.680 2022/06/12T13:55:51z: BME280 (0x76)
+ 0h00:04.694 2022/06/12T13:55:51z: 84:f3:eb:7d:7:a8
+ 0h00:04.696 2022/06/12T13:55:51z: SSID: MU Open
+ 0h00:04.701 2022/06/12T13:55:51z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.363 2022/06/12T14:15:53z: DS3231
+ 0h00:04.378 2022/06/12T14:15:53z: BME280 (0x76)
+ 0h00:04.392 2022/06/12T14:15:53z: 84:f3:eb:7d:7:a8
+ 0h00:04.394 2022/06/12T14:15:53z: SSID: MU Open
+ 0h00:04.399 2022/06/12T14:15:53z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.485 2022/06/12T14:35:55z: DS3231
+ 0h00:04.501 2022/06/12T14:35:55z: BME280 (0x76)
+ 0h00:04.515 2022/06/12T14:35:55z: 84:f3:eb:7d:7:a8
+ 0h00:04.517 2022/06/12T14:35:55z: SSID: MU Open
+ 0h00:04.522 2022/06/12T14:35:55z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.356 2022/06/12T14:55:57z: DS3231
+ 0h00:04.371 2022/06/12T14:55:58z: BME280 (0x76)
+ 0h00:04.385 2022/06/12T14:55:58z: 84:f3:eb:7d:7:a8
+ 0h00:04.387 2022/06/12T14:55:58z: SSID: MU Open
+ 0h00:04.392 2022/06/12T14:55:58z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.503 2022/06/12T15:15:59z: DS3231
+ 0h00:04.519 2022/06/12T15:15:59z: BME280 (0x76)
+ 0h00:04.533 2022/06/12T15:15:59z: 84:f3:eb:7d:7:a8
+ 0h00:04.535 2022/06/12T15:15:59z: SSID: MU Open
+ 0h00:04.540 2022/06/12T15:15:59z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.242 2022/06/12T15:36:01z: DS3231
+ 0h00:04.257 2022/06/12T15:36:01z: BME280 (0x76)
+ 0h00:04.271 2022/06/12T15:36:01z: 84:f3:eb:7d:7:a8
+ 0h00:04.273 2022/06/12T15:36:01z: SSID: MU Open
+ 0h00:04.278 2022/06/12T15:36:01z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.267 2022/06/12T15:56:02z: DS3231
+ 0h00:04.283 2022/06/12T15:56:02z: BME280 (0x76)
+ 0h00:04.297 2022/06/12T15:56:02z: 84:f3:eb:7d:7:a8
+ 0h00:04.299 2022/06/12T15:56:02z: SSID: MU Open
+ 0h00:04.304 2022/06/12T15:56:02z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.407 2022/06/12T16:16:04z: DS3231
+ 0h00:04.422 2022/06/12T16:16:04z: BME280 (0x76)
+ 0h00:04.436 2022/06/12T16:16:04z: 84:f3:eb:7d:7:a8
+ 0h00:04.438 2022/06/12T16:16:04z: SSID: MU Open
+ 0h00:04.443 2022/06/12T16:16:04z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.376 2022/06/12T16:36:07z: DS3231
+ 0h00:04.392 2022/06/12T16:36:07z: BME280 (0x76)
+ 0h00:04.406 2022/06/12T16:36:07z: 84:f3:eb:7d:7:a8
+ 0h00:04.407 2022/06/12T16:36:07z: SSID: MU Open
+ 0h00:04.413 2022/06/12T16:36:07z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.426 2022/06/12T16:56:08z: DS3231
+ 0h00:04.441 2022/06/12T16:56:08z: BME280 (0x76)
+ 0h00:04.455 2022/06/12T16:56:08z: 84:f3:eb:7d:7:a8
+ 0h00:04.457 2022/06/12T16:56:08z: SSID: MU Open
+ 0h00:04.462 2022/06/12T16:56:08z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.440 2022/06/12T17:16:10z: DS3231
+ 0h00:04.455 2022/06/12T17:16:10z: BME280 (0x76)
+ 0h00:04.469 2022/06/12T17:16:10z: 84:f3:eb:7d:7:a8
+ 0h00:04.471 2022/06/12T17:16:10z: SSID: MU Open
+ 0h00:04.476 2022/06/12T17:16:10z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.440 2022/06/12T17:36:12z: DS3231
+ 0h00:04.455 2022/06/12T17:36:12z: BME280 (0x76)
+ 0h00:04.470 2022/06/12T17:36:12z: 84:f3:eb:7d:7:a8
+ 0h00:04.471 2022/06/12T17:36:12z: SSID: MU Open
+ 0h00:04.476 2022/06/12T17:36:12z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.183 2022/06/12T17:56:14z: DS3231
+ 0h00:04.198 2022/06/12T17:56:14z: BME280 (0x76)
+ 0h00:04.212 2022/06/12T17:56:14z: 84:f3:eb:7d:7:a8
+ 0h00:04.214 2022/06/12T17:56:14z: SSID: MU Open
+ 0h00:04.219 2022/06/12T17:56:14z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.340 2022/06/12T18:16:16z: DS3231
+ 0h00:04.355 2022/06/12T18:16:16z: BME280 (0x76)
+ 0h00:04.369 2022/06/12T18:16:16z: 84:f3:eb:7d:7:a8
+ 0h00:04.371 2022/06/12T18:16:16z: SSID: MU Open
+ 0h00:04.376 2022/06/12T18:16:16z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.158 2022/06/12T18:36:17z: DS3231
+ 0h00:04.173 2022/06/12T18:36:17z: BME280 (0x76)
+ 0h00:04.187 2022/06/12T18:36:17z: 84:f3:eb:7d:7:a8
+ 0h00:04.189 2022/06/12T18:36:17z: SSID: MU Open
+ 0h00:04.194 2022/06/12T18:36:17z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.273 2022/06/12T18:56:19z: DS3231
+ 0h00:04.288 2022/06/12T18:56:19z: BME280 (0x76)
+ 0h00:04.303 2022/06/12T18:56:19z: 84:f3:eb:7d:7:a8
+ 0h00:04.304 2022/06/12T18:56:19z: SSID: MU Open
+ 0h00:04.309 2022/06/12T18:56:19z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.425 2022/06/12T19:16:20z: DS3231
+ 0h00:04.440 2022/06/12T19:16:20z: BME280 (0x76)
+ 0h00:04.455 2022/06/12T19:16:20z: 84:f3:eb:7d:7:a8
+ 0h00:04.456 2022/06/12T19:16:20z: SSID: MU Open
+ 0h00:04.461 2022/06/12T19:16:20z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.368 2022/06/12T19:36:22z: DS3231
+ 0h00:04.384 2022/06/12T19:36:22z: BME280 (0x76)
+ 0h00:04.398 2022/06/12T19:36:22z: 84:f3:eb:7d:7:a8
+ 0h00:04.400 2022/06/12T19:36:22z: SSID: MU Open
+ 0h00:04.405 2022/06/12T19:36:22z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.382 2022/06/12T19:56:24z: DS3231
+ 0h00:04.397 2022/06/12T19:56:24z: BME280 (0x76)
+ 0h00:04.411 2022/06/12T19:56:24z: 84:f3:eb:7d:7:a8
+ 0h00:04.413 2022/06/12T19:56:24z: SSID: MU Open
+ 0h00:04.418 2022/06/12T19:56:24z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.238 2022/06/12T20:16:25z: DS3231
+ 0h00:04.254 2022/06/12T20:16:25z: BME280 (0x76)
+ 0h00:04.268 2022/06/12T20:16:25z: 84:f3:eb:7d:7:a8
+ 0h00:04.270 2022/06/12T20:16:25z: SSID: MU Open
+ 0h00:04.275 2022/06/12T20:16:25z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.430 2022/06/12T20:36:27z: DS3231
+ 0h00:04.445 2022/06/12T20:36:27z: BME280 (0x76)
+ 0h00:04.459 2022/06/12T20:36:27z: 84:f3:eb:7d:7:a8
+ 0h00:04.461 2022/06/12T20:36:27z: SSID: MU Open
+ 0h00:04.466 2022/06/12T20:36:27z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.431 2022/06/12T20:56:28z: DS3231
+ 0h00:04.447 2022/06/12T20:56:28z: BME280 (0x76)
+ 0h00:04.461 2022/06/12T20:56:28z: 84:f3:eb:7d:7:a8
+ 0h00:04.463 2022/06/12T20:56:28z: SSID: MU Open
+ 0h00:04.468 2022/06/12T20:56:28z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.361 2022/06/12T21:16:30z: DS3231
+ 0h00:04.376 2022/06/12T21:16:30z: BME280 (0x76)
+ 0h00:04.390 2022/06/12T21:16:30z: 84:f3:eb:7d:7:a8
+ 0h00:04.392 2022/06/12T21:16:30z: SSID: MU Open
+ 0h00:04.397 2022/06/12T21:16:30z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.356 2022/06/12T21:36:32z: DS3231
+ 0h00:04.371 2022/06/12T21:36:32z: BME280 (0x76)
+ 0h00:04.385 2022/06/12T21:36:32z: 84:f3:eb:7d:7:a8
+ 0h00:04.387 2022/06/12T21:36:32z: SSID: MU Open
+ 0h00:04.392 2022/06/12T21:36:32z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.150 2022/06/12T21:56:33z: DS3231
+ 0h00:04.166 2022/06/12T21:56:33z: BME280 (0x76)
+ 0h00:04.180 2022/06/12T21:56:33z: 84:f3:eb:7d:7:a8
+ 0h00:04.181 2022/06/12T21:56:33z: SSID: MU Open
+ 0h00:04.187 2022/06/12T21:56:33z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.347 2022/06/12T22:16:35z: DS3231
+ 0h00:04.362 2022/06/12T22:16:35z: BME280 (0x76)
+ 0h00:04.376 2022/06/12T22:16:35z: 84:f3:eb:7d:7:a8
+ 0h00:04.378 2022/06/12T22:16:35z: SSID: MU Open
+ 0h00:04.383 2022/06/12T22:16:35z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.350 2022/06/12T22:36:37z: DS3231
+ 0h00:04.365 2022/06/12T22:36:37z: BME280 (0x76)
+ 0h00:04.380 2022/06/12T22:36:37z: 84:f3:eb:7d:7:a8
+ 0h00:04.381 2022/06/12T22:36:37z: SSID: MU Open
+ 0h00:04.386 2022/06/12T22:36:37z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.329 2022/06/12T22:56:39z: DS3231
+ 0h00:04.344 2022/06/12T22:56:39z: BME280 (0x76)
+ 0h00:04.359 2022/06/12T22:56:39z: 84:f3:eb:7d:7:a8
+ 0h00:04.360 2022/06/12T22:56:39z: SSID: MU Open
+ 0h00:04.365 2022/06/12T22:56:39z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.564 2022/06/12T23:16:41z: DS3231
+ 0h00:04.579 2022/06/12T23:16:41z: BME280 (0x76)
+ 0h00:04.593 2022/06/12T23:16:41z: 84:f3:eb:7d:7:a8
+ 0h00:04.595 2022/06/12T23:16:41z: SSID: MU Open
+ 0h00:04.600 2022/06/12T23:16:41z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.331 2022/06/12T23:36:43z: DS3231
+ 0h00:04.347 2022/06/12T23:36:43z: BME280 (0x76)
+ 0h00:04.361 2022/06/12T23:36:43z: 84:f3:eb:7d:7:a8
+ 0h00:04.363 2022/06/12T23:36:43z: SSID: MU Open
+ 0h00:04.368 2022/06/12T23:36:43z: AP_STAR tmr
+ ets Jan  8 2013,rst cause:4, boot mode:(3,7)
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v8b899c12
+~ld
+
+
+6.01
+ 0h00:04.646 2022/06/12T23:56:46z: DS3231
+ 0h00:04.661 2022/06/12T23:56:46z: BME280 (0x76)
+ 0h00:04.675 2022/06/12T23:56:46z: 84:f3:eb:7d:7:a8
+ 0h00:04.677 2022/06/12T23:56:46z: SSID: MU Open
+ 0h00:04.682 2022/06/12T23:56:46z: AP_STA
