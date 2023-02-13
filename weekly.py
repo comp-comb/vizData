@@ -1,9 +1,9 @@
 import aggregate as agg
 
 # insert the date array
-date = [29, 1, 3]
+date = [5, 8, 10]
 # insert the month array
-month = [1, 2, 2]
+month = [2, 2, 2]
 # insert the day of the week array
 dow = ['Sun', 'Wed', 'Fri']
 # keep it as it is
