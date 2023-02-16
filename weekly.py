@@ -1,11 +1,11 @@
 import aggregate as agg
 
 # insert the date array
-date = [5, 8, 10, 1]
+date = [5, 8, 10]
 # insert the month array
-month = [2, 2, 2, 1]
+month = [2, 2, 2]
 # insert the day of the week array
-dow = ['Sun', 'Wed', 'Fri', 'test']
+dow = ['Sun', 'Wed', 'Fri']
 # keep it as it is
 v = [1, 3]
 # set the ymax limits so that all the plots have same size array
