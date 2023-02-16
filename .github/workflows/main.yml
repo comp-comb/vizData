@@ -24,7 +24,7 @@ jobs:
           pip install -r requirements.txt
       - name: execute py script # run main.py
         run: |
-          [ -e ./vizualization/final/*.png] && rm ./vizualization/final/*.png
+          [ -e "./vizualization/final/*.png"] && rm ./vizualization/final/*.png
           python process_data.py
           python weekly.py
           git config user.name github-actions
