@@ -32,6 +32,8 @@ jobs:
           python weekly.py
           git config user.name github-actions
           git config user.email github-actions@github.com
+          echo "Executing bash script containing imagemagick commands."
+          sh ./montage.sh
           echo "completed at: $(date)" >> action_message
           git add action_message
           git add ./vizualization/final/
