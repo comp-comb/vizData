@@ -223,7 +223,7 @@ def AMPM(dt, d1, m):
     return ticklabel
 
 
-def weeklyplots(d1, m, day, var, ym):
+def weeklyplots(d1, m, day, var, ym, year=2023):
     from matplotlib.pyplot import figure
     figure(figsize=(17, 10), dpi=300)
 
@@ -248,7 +248,7 @@ def weeklyplots(d1, m, day, var, ym):
 #     m=1
     dt = 3
 
-    data_2022 = data[(data['Year'] == 2023) & (data['Month'] == m) & (data['Date'] >= d1) & (data['Date'] <= d1)][['UTCDateTime', 'Month', 'Date',
+    data_2022 = data[(data['Year'] == year) & (data['Month'] == m) & (data['Date'] >= d1) & (data['Date'] <= d1)][['UTCDateTime', 'Month', 'Date',
                                                                                                                    'current_temp_f', 'current_humidity', 'pm1_0_atm', 'pm2_5_atm',
                                                                                                                   'pm10_0_atm', 'pm2.5_aqi_atm', 'p_0_3_um', 'p_0_5_um', 'p_1_0_um',
                                                                                                                    'p_2_5_um', 'p_5_0_um', 'p_10_0_um', 'FileName']].dropna()
