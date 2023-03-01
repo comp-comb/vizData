@@ -20,7 +20,7 @@ montage Sun*Number*png \
     Wed*Number*png -font DejaVu-Serif Fri*Number*png -pointsize 120 \
     -label "$(labels 0)" Sun*Con*png \
     -label "$(labels 1)" Wed*Con*png \
-    -label "$(labels 2)" Fri*Con*png -tile x2 -geometry 1700x1313 montage.png
+    -label "$(labels 2)" Fri*Con*png -tile x2 -geometry 1600x1313 montage.png
 
 echo "done"
 
