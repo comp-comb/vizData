@@ -43,3 +43,10 @@ jobs:
           filename: "allData.csv"
           folderID: ${{ secrets.folderId }}
           overwrite: "true"
+      - name: upload to gdrive
+        uses: adityak74/google-drive-upload-git-action@main
+        with: 
+          credentials: ${{ secrets.credentials }}
+          filename: "./vizualization/final/montage.png"
+          folderID: ${{ secrets.folderId }}
+          overwrite: "true"
