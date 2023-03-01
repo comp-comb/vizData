@@ -1,8 +1,8 @@
 #!/bin/bash
 
-dates=($(grep 'date =' weekly.py | cut -d [ -f2 | cut -d ] -f 1 | tr ',' ' '))
-months=($(grep 'month =' weekly.py | cut -d [ -f2 | cut -d ] -f 1 | tr ',' ' '))
-years=($(grep 'years =' weekly.py | cut -d [ -f2 | cut -d ] -f 1 | tr ',' ' '))
+dates=$(grep 'date =' weekly.py | cut -d [ -f2 | cut -d ] -f 1 | tr ',' ' ')
+months=$(grep 'month =' weekly.py | cut -d [ -f2 | cut -d ] -f 1 | tr ',' ' ')
+years=$(grep 'years =' weekly.py | cut -d [ -f2 | cut -d ] -f 1 | tr ',' ' ')
 
 labels() {
 
