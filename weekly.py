@@ -1,7 +1,7 @@
 import aggregate as agg
 
 # insert the date array
-date = [19, 22, 24]
+date = [12, 22, 24]
 # insert the month array
 month = [2, 2, 2]
 # insert the day of the week array
