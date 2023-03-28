@@ -20,7 +20,7 @@ jobs:
       - name: Download file X from Google Drive to default (./) directory
         uses: k0staa/download-gdrive-file-action@v1
         with:
-          service-account-key-json: ${{ secrets.credentials }}
+          service-account-key-json: ${{ secrets.CREDENTIAL_JSON }}
           download-file-name: allData.csv
       - name: install python packages
         run: |
