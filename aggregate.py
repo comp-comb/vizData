@@ -126,23 +126,31 @@ def findDay(date):
 
 # # the following will trim the data to the required fields
 
-data = pd.read_csv('allData.csv', parse_dates=["UTCDateTime"])
-data["UTCDateTime"] = pd.to_datetime(data["UTCDateTime"])
-data = data[data.columns.drop(list(data.filter(regex='_b')))]
-data = data[data.columns.drop(list(data.filter(regex='gas')))]
-data = data[data.columns.drop(list(data.filter(regex='_cf_1')))]
-data = data[['UTCDateTime', 'Year', 'Month', 'Date', 'Time', 'Hour', 'Minute', 'Second', 'Day',
-             'current_temp_f', 'current_humidity', 'pm1_0_atm', 'pm2_5_atm', 'pm10_0_atm',
-            'pm2.5_aqi_atm', 'p_0_3_um', 'p_0_5_um', 'p_1_0_um', 'p_2_5_um',
-             'p_5_0_um', 'p_10_0_um', 'FileName']].dropna()
 
-c = []
-a = np.array(data['current_temp_f'])
-for i in a:
-    c.append(float(i))
-data['current_temp_f'] = c
+def trim_data(fileName):
+	data = pd.read_csv('allData.csv', parse_dates=["UTCDateTime"])
+	data["UTCDateTime"] = pd.to_datetime(data["UTCDateTime"])
+	data = data[data.columns.drop(list(data.filter(regex='_b')))]
+	data = data[data.columns.drop(list(data.filter(regex='gas')))]
+	data = data[data.columns.drop(list(data.filter(regex='_cf_1')))]
+	data = data[['UTCDateTime', 'Year', 'Month', 'Date', 'Time', 'Hour', 'Minute', 'Second', 'Day',
+		     'current_temp_f', 'current_humidity', 'pm1_0_atm', 'pm2_5_atm', 'pm10_0_atm',
+		    'pm2.5_aqi_atm', 'p_0_3_um', 'p_0_5_um', 'p_1_0_um', 'p_2_5_um',
+		     'p_5_0_um', 'p_10_0_um', 'FileName']].dropna()
 
-data = data[(data["Minute"] > 1) & (data['pm2.5_aqi_atm'] < 150)]
+	c = []
+	a = np.array(data['current_temp_f'])
+	for i in a:
+	    c.append(float(i))
+	data['current_temp_f'] = c
+
+	data = data[(data["Minute"] > 1) & (data['pm2.5_aqi_atm'] < 150)]
+	
+	return data
+	
+data=trim_data('allData.csv')
+
+
 # data=data[(data["Minute"]>1)]
 
 # variables = ['current_temp_f', 'current_humidity', 'pm1_0_atm', 'pm2_5_atm',
@@ -235,6 +243,9 @@ def weeklyplots(d1, m, day, var, ym, year=2023):
 
     mpl.rc('font', **font)
     mpl.rcParams["figure.dpi"] = 300
+    
+    
+
 
     variables = ['current_temp_f',  'pm2_5_atm', 'pm2.5_aqi_atm', 'p_2_5_um']
     labels = ['Temperature (°F)', 'PM2.5 Concentration (μg/m$^3$)', 'Air quality index (AQI)',
@@ -316,6 +327,9 @@ def month_range(d1, d2, m, dt, mon, var):
                 'AQI', 'Number_concentration_PM2_5']
 
     j = variables[var]
+    
+    
+
 
 #     mon='Jul'
 #     m=7

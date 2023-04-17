@@ -1,13 +1,14 @@
 import aggregate as agg
 
 # insert the date array
-date = [2, 5, 7]
+date = [9, 12, 14]
 # insert the month array
 month = [4, 4, 4]
 # insert the day of the week array
 dow = ['Sun', 'Wed', 'Fri']
 
 years = [2023,2023,2023]
+
 
 # keep it as it is
 v = [1, 3]
